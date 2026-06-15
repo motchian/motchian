@@ -1,12 +1,13 @@
 # N. Dakon Richard Motchian
 
-### 👋 Software Engineer · Web & Backend
+### 👋 Software Engineer · Economist-Statistician
 
-I build scalable, maintainable web and backend applications, and I enjoy turning fuzzy requirements into systems people can rely on. I work across product and engineering, and I'm always picking up new tools and practices to ship better.
+Software engineer with a strong analytical background. I build scalable, maintainable web and backend applications, and I bring several years of experience in statistics, data analysis, monitoring & evaluation (M&E), and strategy across international development and trade projects.
 
-- 🔭 Focused on **web & backend development**
-- 🧰 Across the stack: **TypeScript · Node.js · React · REST APIs · SQL & NoSQL**
-- 🌱 Always learning — modern practices, testing, clean architecture
+- 🔭 Building **web & backend** applications — TypeScript, Node.js, React
+- 📊 Background in **statistics, data analysis & M&E** — impact evaluations, value-chain studies
+- 🧭 Leading **strategy and project work** across public and development sectors
+- 📍 Based in Abidjan, Côte d'Ivoire
 - 🤝 Open to collaboration and new opportunities
 
 ---
@@ -43,6 +44,36 @@ I build scalable, maintainable web and backend applications, and I enjoy turning
 
 ---
 
+## 💼 Experience
+
+**Head of Studies, Analysis & Foresight** — Conseil National des Exportations · *2023–2025*  
+Led studies and foresight on Côte d'Ivoire's export value chains (cocoa, cashew, mango, cassava, coffee), drafted donor-funded project proposals, and contributed to national strategies on trade facilitation, e-commerce and the AfCFTA.
+
+**Country Statistician Engineer** — ILRI · *2023*  
+Country statistician for an international meat-demand study across Nigeria, Senegal and Côte d'Ivoire — collection-tool design, fieldwork monitoring and interviewer training.
+
+**Consultant Facilitator** — UNICEF · *2022–2023*  
+Facilitated the new multisectoral plan for nutrition, food and early-childhood development (SE-CONAPE).
+
+**Head of Strategy & Development** — Kyria Consultancy Services (fintech) · *2022*  
+Drove marketing and product strategy for a West/East-African fintech: functional & technical specifications, test scenarios, deliverable validation and production deployments, and client demos; managed a team of 11+.
+
+**Country Statistician Consultant — McGovern-Dole Evaluation (USDA)** — SONETCI · *2021–2022*  
+Lead evaluator in Côte d'Ivoire for a school-feeding impact evaluation (120 schools, 1,000+ households) — sampling design, trained 43 enumerators, database cleaning and final report, with the American Institutes for Research (AIR).
+
+**Statistician Consultant** — Believe and Propulse · *2021*  
+Economist-statistician across World Bank (SWEDD) and FAO (Tilapia Volta) projects — data collection, analysis and reporting.
+
+**Chargé d'Études** — BRVM, UEMOA regional stock exchange · *2020*  
+Developed the strategic plan for the national branch of the regional stock exchange.
+
+**Lecturer in Economics, Statistics & Econometrics** — Universities in Abidjan · *2021–2022*  
+Taught economics, statistics, econometrics and statistical software to university students.
+
+*Earlier: research and statistical consulting with CIRAD, CERAP-INADES, IECD and others (2019–2022).*
+
+---
+
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-dakon-richard-motchian-033876199/)
@@ -55,6 +86,6 @@ Uncomment this block and replace YOUR_GITHUB_USERNAME to enable it.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=motchian&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=motchian&layout=compact&hide_border=true)
 -->
